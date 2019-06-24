@@ -1,11 +1,9 @@
 #ifndef WEPOLL_H_
 #define WEPOLL_H_
 
-#ifndef WEPOLL_EXPORT
-#define WEPOLL_EXPORT
-#endif
-
 #include <stdint.h>
+
+#include "config-external.h"
 
 /* clang-format off */
 
